@@ -16,7 +16,7 @@ Now run the kernel *self-install* script:
 2. Create a new virtual environment with the conda package manager
 `conda create -n <env_name> -c esri arcgis`
 or using the pip package manager
-`pip install arcgis'
+`pip install arcgis`
 3. Activate the environment
 `source activate <env_name>`
 4. Test within the Jupyter Notebook if you may
