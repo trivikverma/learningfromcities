@@ -1,7 +1,7 @@
 # Learning From Cities
 ## Source Code for the project "Learning from Cities": includes all data management, assimilation, cleaning and analysis code
 
-If you cannot load the **virtual environment** in your _jupiter notebook_, try the following,
+If you cannot load the **virtual environment** in your _jupyter notebook_, try the following,
 Install the ipython kernel module into your virtualenv
 `pip install ipykernel`
 
